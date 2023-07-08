@@ -7,9 +7,9 @@ There are questions and solutions to the tasks in the Days for anyone who might 
 The languages are not specified but I chose to work with Python, for better experience in the language
 
 # Days
-
+ * [Day_0](./Day_0)
  * [Day 1](./Day_1)
- * [Day 2](./Day_2)
+ * [Day 2](./Day_2)S
  * [Day 3](./Day_3)
  * [Day 4](./Day_4)
  * [Day 5](./Day_5)
