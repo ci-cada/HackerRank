@@ -9,7 +9,7 @@ The languages are not specified but I chose to work with Python, for better expe
 # Days
  * [Day_0](./Day_0)
  * [Day 1](./Day_1)
- * [Day 2](./Day_2)S
+ * [Day 2](./Day_2)
  * [Day 3](./Day_3)
  * [Day 4](./Day_4)
  * [Day 5](./Day_5)
